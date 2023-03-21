@@ -1,6 +1,11 @@
 # Machine Learning, Kaggle Competition 🤖
 
+### Result: 2nd 🥈
+Link: https://www.kaggle.com/competitions/predict-salary-for-data-science-jobs/leaderboard
+
 #### Goal: Be the most accurate in forecasting the salaries of Data Jobs
+
+
 
 ## 1st- Data Cleaning Steps 📋
 
